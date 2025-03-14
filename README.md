@@ -4,7 +4,7 @@
 
 ### 🔹 My work focuses on:
 - 🛠️ **Engineering**: Creating DevOps solutions to streamline **CI/CD** processes
-- 🧩 **Problem Solving**: Identifying bugs & inconsistencies in the **deployment lifecycle**, then analyzing multiple resolutions for best fix
+- 🧩 **Problem Solving**: Identifying bugs/inconsistencies in the **deployment lifecycle**, and fixing them
 - 👨‍💼 **Leadership**: People management, training, strategy, and execution
 
 ---
