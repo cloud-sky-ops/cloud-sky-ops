@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### 🚀 I'm a **Senior Software Engineer** specializing in **DevOps Engineering**
+#### 🚀 I'm a **Senior Software Development Engineer** specializing in **DevOps Engineering**
 
 ### 🔹 My work focuses on:
 - 🛠️ **Engineering**: Creating DevOps solutions to streamline **CI/CD** processes
