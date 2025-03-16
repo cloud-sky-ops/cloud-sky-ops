@@ -13,10 +13,10 @@
 
 - ⚡ **Scripting & Automation:** Python 🐍, Bash 🖥️
 - 🚀 **CI/CD Tools:** GitHub Actions 🎭, Jenkins 🏗️
-- 📦 **Containerization:** Docker 🐳
-- ☸ **Container Orchestration:** Kubernetes ☸, Helm ⛵
-- 🔗 **API Development:** Golang 🦫
 - 🔄 **GitOps CD:** Argo CD 🎯
+- ☸ **Container Orchestration:** Kubernetes ☸, Helm ⛵
+- 🔗 **CLI/API Development:** Golang 🦫
+- 📦 **Containerization:** Docker 🐳
 - 🌍 **Cloud Infrastructure Provisioning:** Terraform 🌿
 - ☁️ **Cloud Service Providers:** GCP ☁, Microsoft Azure 🔵
 
