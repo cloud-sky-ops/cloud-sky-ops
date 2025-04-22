@@ -33,6 +33,7 @@
 For discussions, suggestions, and collaborations, you can find me at:
 - 💼 **LinkedIn:** [akash-connect](https://www.linkedin.com/in/akash-connect/) 🔗
 - 📧 **Gmail:** akash.dwivedi0708@gmail.com ✉️
+- 👉 **X:** [Akash Dwivedi](https://x.com/sky_hype31)🐦
 
 <!--
 **cloud-sky-ops/cloud-sky-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
